@@ -4,13 +4,13 @@
     {
       "key": "jzp",
       "status": "absent",
-      "checked_at": "2026-11-25T12:01:07+01:00",
+      "checked_at": "2026-11-25T16:01:12+01:00",
       "url": "https://www.automatmatuska.cz/aktualne-na-cepu-jzp/"
     },
     {
       "key": "dejvice",
       "status": "absent",
-      "checked_at": "2026-11-25T12:01:07+01:00",
+      "checked_at": "2026-11-25T16:01:12+01:00",
       "url": "https://www.automatmatuska.cz/aktualne-na-cepu-dejvice/"
     }
   ]
